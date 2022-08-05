@@ -226,3 +226,11 @@ i{
 .nav-main a:hover{
     color: white;
 }
+
+.ul__nav-second__1 a{
+    text-decoration: none;
+}
+
+.ul__nav-second__1 a:hover{
+    color: white;
+}
